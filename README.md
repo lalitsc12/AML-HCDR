@@ -1,6 +1,6 @@
 # AML-HCDR
 
-#Refrence 
+# Reference 
 https://www.kaggle.com/ashishpatel26/home-credit-default-risk-001
 
 MOM - 28th Mar 2019
